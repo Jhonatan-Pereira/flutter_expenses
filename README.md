@@ -31,5 +31,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
 
-[viewport1]: https://github.com/Jhonatan-Pereira/flutter_expenses/blob/master/assets/viewport/viewport1.jpeg "Viewport1"
-[viewport2]: https://github.com/Jhonatan-Pereira/flutter_expenses/blob/master/assets/viewport/viewport2.jpeg "Viewport2"
+[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/flutter_expenses/master/assets/viewport/viewport1.jpeg "Viewport1"
+[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/flutter_expenses/master/assets/viewport/viewport2.jpeg "Viewport2"
